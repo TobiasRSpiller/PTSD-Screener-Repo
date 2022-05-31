@@ -1,23 +1,24 @@
 
 ## PTSD Screening Questionnaire Repository
 
-One sentence DESCIRPTION.
+This repository was created out of a global research collaboration, to increase access to translated PTSD screening questionnaires. 
 
 ### Aim
-Provide a central repository of translated and adapted PTSD screening questionnaires freely usable 
-- A) Help researchers find such a questionnaire for their own use 
-- B) Limit waste of resources by avoiding re-translations 
-- C) Highlight gaps in the literature (i.e. language families for which no questionnaires are currently available) 
-- D) Promote collaboration by researchers to increase the quality and avialbility of these questionnaires 
+To provide a central repository of translated and evaluated PTSD screening questionnaires that are freely usable in clinical and research settings to:
+
+-	Assist researchers and clinicians by providing access to translated PTSD screening questionnaires
+- Limit waste of resources by avoiding re-translations, in which an evaluated translation already exists
+- Highlight gaps in the literature (i.e., language groups for which no questionnaires are currently available) 
+- Promote collaboration by researchers and clinicians to increase the quality and availability of these questionnaires 
 
 ### Support
-There are three main ways you can support this repository: Give us credit by citing our review on PTSD screening questionnaires, contribute additional translations of these questionnaires & share our projects with your collaborators and friends.
+There are three main ways you can support this repository: 1) Cite our review  on PTSD screening questionnaires, 2) contribute additional translations of PTSD screening questionnaires & 3) share this project with your collaborators and friends.
 
 #### Cite
-Please cite the original article presenting the translation of the questionnaires presented here. In addition, you can help us tremendously by citing our [review](ADD) on the availability of translations of PTSD screening questionnaires. 
+When using a questionnaire from this repository, please cite the original article and authors responsible for the translation included in this repository. In addition, you can help us tremendously by citing our [review](ADD) on the availability of translations of PTSD screening questionnaires.
 
 #### Contribute
-If you have translated and/or culturally adapted a PTSD screening questionnaire yourself or are aware of one that is missing here, please [contact us](mailto:tobias.spiller@yale.edu).
+If you have translated and/or culturally adapted a PTSD screening questionnaire or are aware of one that is missing in this repository, please [contact us](mailto:tobias.spiller@yale.edu).
 
 #### Share
 You can help us promote this repository by sharing a link to it on social media or via e-mail.
