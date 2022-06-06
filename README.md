@@ -38,20 +38,21 @@ More information about the GPS and a full list with all versions can be found he
 
 
 #### Harvard Trauma Questionnaire (HTQ)
-The original publication of the English version can be found here: [HTQ](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(14)70196-2/fulltext), 
-[HTQ-5](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(14)70196-2/fulltext).
+More information about the HTQ is available [here](https://hprt-cambridge.org/screening/harvard-trauma-questionnaire/) 
+The original publication of the English version can be found here: [HTQ-5](https://watermark.silverchair.com/cky256.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsQwggLABgkqhkiG9w0BBwagggKxMIICrQIBADCCAqYGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMggJSHmYOrKrxhFNpAgEQgIICdwgPQ7QMbcPlWqMGcL25W99l0QPDghB0H8EVPXQ5OfQuo6TPh2n-fcBPCxGhyjJNeXFTgbLgAUUV3Nq6DSud68JzVixlVRhk9MyVYrEqktirapLYobuhdT7EetAshbjkGQlcwdV8bCgS7n8sovvU74gTyPTfCmCfcGUgMW7sEE6mPWbf5Mc_BMS5bmfg3-khD9P-XMgdsU51nnqeUvAxZ1ZbdMyE318k8_eg4NOLJLW2Uf89rL9t3k4qwWIS001Infg4ylrPZrFaIhVvWB4xKx4yKfTqjJNvDoRzIXEsm8c6Bf7FRD0_4jPz9QBnjL2VFwml64WOkrHG9dXqx2chHmT5anboJjaoRa262vfEScBzDaJtziW00U9AutsYOWX--6M9igTM_ynQr28HUGVR_PMsSC2WkbdKtWR-7n4UKZ5cpeELaoHahOZ5rR6kojkuywQtWwwGXIPwE4Dcl5SrotnkK-1kovXSqQopGuYWm2YsYKU-XUSTe8uooTPFeZ90NAQLQSzcAl1A-v-Q6-R4J0PCaHSGqCOEAXbIrGjBZssGezYL0J_pKrxCIQxLHFfrOlVngJxCmInXdvF56IHcOQtbNQisMDzVC8ERT0DyNqX_A8zVv9ew-GzvZy0lz1DMCurhj5NpmlnM3p5iKXTtkACHmVCEOi28veMhYBtE4tuX011mOQWFF3f1LEkLOq86iR6VUAWOcETDB3i8rMf044XsESHKF41UxqkVEu8Y0QWbqi_WIJ4FcHG798W0dOtqFSSyVy_l3xdO314VFE_OjJfFmzrHqN6qaKuhZXGCsnHTgGF9JLL9pAeFGrz0ezWFZP5l9xFZIdI)
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
 | Hindu  | DSM-IV | [Contact Author](mailto:apatel@hsph.harvard.edu) | [Article](https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-022-01595-3) | 
-| Urdu  | DSM-IV | [Download](https://osf.io/kwazs/) | [Article](https://journals.sagepub.com/doi/abs/10.1177/1363461518764487) | 
-| Tiv  | DSM-IV | [Download](https://osf.io/ghcs8/) | [Article](https://www.tandfonline.com/doi/abs/10.1080/10615806.2017.1361936?journalCode=gasc20) | 
+| Urdu  | DSM-IV | [Contact Author](mailto:apatel@hsph.harvard.edu)  [Download](https://osf.io/kwazs/) | [Article](https://journals.sagepub.com/doi/abs/10.1177/1363461518764487) | 
+| Tiv  | DSM-IV | [Contact Author](mailto:apatel@hsph.harvard.edu) [Download](https://osf.io/ghcs8/) | [Article](https://www.tandfonline.com/doi/abs/10.1080/10615806.2017.1361936?journalCode=gasc20) | 
 
 <br />
 
 
 #### Impact of Event Scale - Revised (IES-R)
-The original publication of the English version can be found here: [IES-R](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(14)70196-2/fulltext)
+More information about the IES-R is available [here](https://www.ptsd.va.gov/professional/assessment/adult-sr/ies-r.asp) 
+The original publication of the English version can be found here: [IES-R](https://www.sciencedirect.com/science/article/abs/pii/S0887618507000722?via%3Dihub)
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
@@ -67,23 +68,23 @@ More information about the ITQ and a full list with all versions can be found he
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
-| Arabic | ICD-11 | [CDownload](https://www.traumameasuresglobal.com/_files/ugd/be25b4_cd992d204d744075a1c4429842960e84.pdf) | [Article I](https://www.cambridge.org/core/journals/global-mental-health/article/are-posttraumatic-stress-disorder-ptsd-and-complexptsd-distinguishable-within-a-treatmentseeking-sample-of-syrian-refugees-living-in-lebanon/096B22F9FED4C03CF297234DBB09FF0F) [Article II](https://onlinelibrary.wiley.com/doi/10.1111/acps.12973)| 
-| Chinese  | ICD-11 | [CDownload](https://www.traumameasuresglobal.com/_files/ugd/be25b4_fa9c5f4850c547769adca6e7a32334d5.pdf) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2019.1608718) | 
-| Danish  | ICD-11 | [CDownload](https://www.traumameasuresglobal.com/_files/ugd/be25b4_90a72d644c484b4eae5be68e58b65747.pdf) | [Article I](https://www.tandfonline.com/doi/full/10.1080/20008198.2021.1880747)  [Article II](https://www.tandfonline.com/doi/full/10.1080/20008198.2021.1894806)| 
-| German | ICD-11 | [CDownload](https://www.traumameasuresglobal.com/_files/ugd/be25b4_542119c23f904aaf845c32d8eeeca9c9.pdf) | [Article](https://cpe.psychopen.eu/index.php/cpe/article/view/5501) | 
-| Hebrew | ICD-11 | [CDownload](https://www.traumameasuresglobal.com/_files/ugd/be25b4_05b0e197335a41f3a557944d05457956.pdf) | [Article](https://www.sciencedirect.com/science/article/abs/pii/S0887618517305145?via%3Dihub) | 
-| Japanese  | ICD-11 | [CDownload](https://www.traumameasuresglobal.com/_files/ugd/be25b4_9a5566d81e9049babc47567e661beb41.pdf) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2020.1717826) | 
-| Korean | ICD-11 | [CDownload](https://www.traumameasuresglobal.com/_files/ugd/be25b4_d3c6a6f7d3c34712bb5c512e57f18fa9.pdf) | [Article](https://www.tandfonline.com/doi/abs/10.1080/10615806.2020.1839889?journalCode=gasc20) | 
-| Lithuanian  | ICD-11 | [CDownload](https://www.traumameasuresglobal.com/_files/ugd/be25b4_b16790b6ee004fd5a7f4f2ac894d631e.pdf) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2017.1414559) | 
-| Norwegian | ICD-11 | [CDownload](https://www.traumameasuresglobal.com/_files/ugd/be25b4_57a917f1452c44b8befd196a4fd8f5dd.pdf) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2020.1796187) | 
-| Portugese  | ICD-11 | [CDownload](https://www.traumameasuresglobal.com/_files/ugd/be25b4_5ee5a5239b2a42d29576743b7e3229ff.pdf) | [Article](https://www.scielo.br/j/spmj/a/SvKMPZc4yCh6mqnGNWKbgdN/?lang=en) | 
+| Arabic | ICD-11 | [Download](https://www.traumameasuresglobal.com/_files/ugd/be25b4_cd992d204d744075a1c4429842960e84.pdf) | [Article I](https://www.cambridge.org/core/journals/global-mental-health/article/are-posttraumatic-stress-disorder-ptsd-and-complexptsd-distinguishable-within-a-treatmentseeking-sample-of-syrian-refugees-living-in-lebanon/096B22F9FED4C03CF297234DBB09FF0F), [Article II](https://onlinelibrary.wiley.com/doi/10.1111/acps.12973)| 
+| Chinese  | ICD-11 | [Download](https://www.traumameasuresglobal.com/_files/ugd/be25b4_fa9c5f4850c547769adca6e7a32334d5.pdf) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2019.1608718) | 
+| Danish  | ICD-11 | [Download](https://www.traumameasuresglobal.com/_files/ugd/be25b4_90a72d644c484b4eae5be68e58b65747.pdf) | [Article I](https://www.tandfonline.com/doi/full/10.1080/20008198.2021.1880747),  [Article II](https://www.tandfonline.com/doi/full/10.1080/20008198.2021.1894806)| 
+| German | ICD-11 | [Download](https://www.traumameasuresglobal.com/_files/ugd/be25b4_542119c23f904aaf845c32d8eeeca9c9.pdf) | [Article](https://cpe.psychopen.eu/index.php/cpe/article/view/5501) | 
+| Hebrew | ICD-11 | [Download](https://www.traumameasuresglobal.com/_files/ugd/be25b4_05b0e197335a41f3a557944d05457956.pdf) | [Article](https://www.sciencedirect.com/science/article/abs/pii/S0887618517305145?via%3Dihub) | 
+| Japanese  | ICD-11 | [Download](https://www.traumameasuresglobal.com/_files/ugd/be25b4_9a5566d81e9049babc47567e661beb41.pdf) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2020.1717826) | 
+| Korean | ICD-11 | [Download](https://www.traumameasuresglobal.com/_files/ugd/be25b4_d3c6a6f7d3c34712bb5c512e57f18fa9.pdf) | [Article](https://www.tandfonline.com/doi/abs/10.1080/10615806.2020.1839889?journalCode=gasc20) | 
+| Lithuanian  | ICD-11 | [Download](https://www.traumameasuresglobal.com/_files/ugd/be25b4_b16790b6ee004fd5a7f4f2ac894d631e.pdf) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2017.1414559) | 
+| Norwegian | ICD-11 | [Download](https://www.traumameasuresglobal.com/_files/ugd/be25b4_57a917f1452c44b8befd196a4fd8f5dd.pdf) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2020.1796187) | 
+| Portugese  | ICD-11 | [Download](https://www.traumameasuresglobal.com/_files/ugd/be25b4_5ee5a5239b2a42d29576743b7e3229ff.pdf) | [Article](https://www.scielo.br/j/spmj/a/SvKMPZc4yCh6mqnGNWKbgdN/?lang=en) | 
 
 <br />
 
 
 #### Posttraumatic Diagnostic Scale (PDS)
-The original publication of the English version can be found here: [PDS](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(14)70196-2/fulltext)
-[PDS-5](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(14)70196-2/fulltext)
+More information about the PDS is available [here](https://www.ptsd.va.gov/professional/assessment/adult-sr/pds.asp) 
+The original publication of the English version can be found here: [PDS-5](https://content.apa.org/record/2015-57068-001)
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
@@ -93,8 +94,9 @@ The original publication of the English version can be found here: [PDS](https:/
 
 
 #### Primary Care PTSD Screen (PC-PTSD)
-The original publication of the English version can be found here: [PC-PTSD](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(14)70196-2/fulltext)
-[PC-PTSD-5](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(14)70196-2/fulltext)
+More information about the PC-PTSD is available [here](https://www.ptsd.va.gov/professional/assessment/screens/pc-ptsd.asp) and [here](https://link.springer.com/article/10.1007/s11606-016-3703-5).
+The original publication of the English version can be found here: [PC-PTSD-5](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2775926)
+[PC-PTSD](https://content.apa.org/record/2015-55809-001)
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
@@ -104,21 +106,24 @@ The original publication of the English version can be found here: [PC-PTSD](htt
 
 
 #### PTSD Checklist (PCL)
-The original publication of the English version can be found here: [PCL](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(14)70196-2/fulltext)
-[PCL-5](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(14)70196-2/fulltext)
+More information about the PCL-5 is available [here](https://www.ptsd.va.gov/professional/assessment/adult-sr/ptsd-checklist.asp)
+The original publication of the English version can be found here: [PCL](https://doi.apa.org/record/2008-03290-009?doi=1)
+[PCL-5](https://content.apa.org/record/2015-55809-001)
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
 | Hausa  | DSM-5 | [Download](https://osf.io/6bwau/) | [Article](https://link.springer.com/article/10.1007/s11469-021-00527-w) | 
-| Hindu  | DSM-5 | [Contact Author](mailto:apatel@hsph.harvard.edu) | [Article](https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-022-01595-3) | 
+| Shona  | DSM-5 | [Download](https://osf.io/r2tna/) | [Article](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-018-1688-9) | 
+| Ukranian  | DSM-5 | [Download](https://af22a459-c039-4ba8-9a14-a6426addc3b6.filesusr.com/ugd/be25b4_322d31e2597746ccac1098a8a8f2210f.docx?dn=1.%20PCL-5%20Ukrainian.docx) | [Article](https://link.springer.com/article/10.1007/s00127-019-01652-7) | 
+| Arabic (Saudi Arabia) | DSM-IV | [Contact Author](mailto:ealhalal@KSU.EDU.SA) | [Article](https://onlinelibrary.wiley.com/doi/abs/10.1002/nur.21837) | 
+| Arabic (Israel) | DSM-IV | [Contact Author](mailto:slonim@bgu.ac.il) | [Article](https://www.sciencedirect.com/science/article/abs/pii/S0165178118311004) | 
 
 <br />
 
 
-
 #### Trauma Screening Questionnaire (TSQ)
-The original publication of the English version can be found here: [TSQ](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(14)70196-2/fulltext)
-[TSQ-5](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(14)70196-2/fulltext)
+More information about the TSQ is available [here](https://www.ptsd.va.gov/professional/assessment/screens/tsq.asp)
+The original publication of the English version can be found here: [TSQ](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/brief-screening-instrument-for-posttraumatic-stress-disorder/8FE873195DE100DD13A3F4370E5BB266)
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
