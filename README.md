@@ -28,7 +28,7 @@ You can help us promote this repository by sharing a link to it on social media 
 
 ### Questionnaires
 #### Global Psychotrauma Screen (GPS)
-More information about the GPS and a full list with all versions can be found here: [GPS](https://de.global-psychotrauma.net/gps) 
+More information about the GPS and a full list with all versions can be found here: [GPS](https://de.global-psychotrauma.net/gps).
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
@@ -39,7 +39,7 @@ More information about the GPS and a full list with all versions can be found he
 
 #### Harvard Trauma Questionnaire (HTQ)
 More information about the HTQ is available [here](https://hprt-cambridge.org/screening/harvard-trauma-questionnaire/).
-The original publication of the English version can be found here: [HTQ-5](https://watermark.silverchair.com/cky256.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsQwggLABgkqhkiG9w0BBwagggKxMIICrQIBADCCAqYGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMggJSHmYOrKrxhFNpAgEQgIICdwgPQ7QMbcPlWqMGcL25W99l0QPDghB0H8EVPXQ5OfQuo6TPh2n-fcBPCxGhyjJNeXFTgbLgAUUV3Nq6DSud68JzVixlVRhk9MyVYrEqktirapLYobuhdT7EetAshbjkGQlcwdV8bCgS7n8sovvU74gTyPTfCmCfcGUgMW7sEE6mPWbf5Mc_BMS5bmfg3-khD9P-XMgdsU51nnqeUvAxZ1ZbdMyE318k8_eg4NOLJLW2Uf89rL9t3k4qwWIS001Infg4ylrPZrFaIhVvWB4xKx4yKfTqjJNvDoRzIXEsm8c6Bf7FRD0_4jPz9QBnjL2VFwml64WOkrHG9dXqx2chHmT5anboJjaoRa262vfEScBzDaJtziW00U9AutsYOWX--6M9igTM_ynQr28HUGVR_PMsSC2WkbdKtWR-7n4UKZ5cpeELaoHahOZ5rR6kojkuywQtWwwGXIPwE4Dcl5SrotnkK-1kovXSqQopGuYWm2YsYKU-XUSTe8uooTPFeZ90NAQLQSzcAl1A-v-Q6-R4J0PCaHSGqCOEAXbIrGjBZssGezYL0J_pKrxCIQxLHFfrOlVngJxCmInXdvF56IHcOQtbNQisMDzVC8ERT0DyNqX_A8zVv9ew-GzvZy0lz1DMCurhj5NpmlnM3p5iKXTtkACHmVCEOi28veMhYBtE4tuX011mOQWFF3f1LEkLOq86iR6VUAWOcETDB3i8rMf044XsESHKF41UxqkVEu8Y0QWbqi_WIJ4FcHG798W0dOtqFSSyVy_l3xdO314VFE_OjJfFmzrHqN6qaKuhZXGCsnHTgGF9JLL9pAeFGrz0ezWFZP5l9xFZIdI)
+The original publication of the English version can be found here: [HTQ-5](https://academic.oup.com/eurpub/article/29/3/468/5248189?login=true).
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
@@ -51,8 +51,8 @@ The original publication of the English version can be found here: [HTQ-5](https
 
 
 #### Impact of Event Scale - Revised (IES-R)
-More information about the IES-R is available [here](https://www.ptsd.va.gov/professional/assessment/adult-sr/ies-r.asp) 
-The original publication of the English version can be found here: [IES-R](https://www.sciencedirect.com/science/article/abs/pii/S0887618507000722?via%3Dihub)
+More information about the IES-R is available [here](https://www.ptsd.va.gov/professional/assessment/adult-sr/ies-r.asp).
+The original publication of the English version can be found here: [IES-R](https://www.sciencedirect.com/science/article/abs/pii/S0887618507000722?via%3Dihub).
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
@@ -64,7 +64,7 @@ The original publication of the English version can be found here: [IES-R](https
 
 
 #### International Trauma Questionnaire (ITQ)
-More information about the ITQ and a full list with all versions can be found here: [The International Trauma Consortium](https://www.traumameasuresglobal.com/itq) 
+More information about the ITQ and a full list with all versions can be found here: [The International Trauma Consortium](https://www.traumameasuresglobal.com/itq). 
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
@@ -83,8 +83,8 @@ More information about the ITQ and a full list with all versions can be found he
 
 
 #### Posttraumatic Diagnostic Scale (PDS)
-More information about the PDS is available [here](https://www.ptsd.va.gov/professional/assessment/adult-sr/pds.asp) 
-The original publication of the English version can be found here: [PDS-5](https://content.apa.org/record/2015-57068-001)
+More information about the PDS is available [here](https://www.ptsd.va.gov/professional/assessment/adult-sr/pds.asp). 
+The original publication of the English version can be found here: [PDS-5](https://content.apa.org/record/2015-57068-001).
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
@@ -95,8 +95,8 @@ The original publication of the English version can be found here: [PDS-5](https
 
 #### Primary Care PTSD Screen (PC-PTSD)
 More information about the PC-PTSD is available [here](https://www.ptsd.va.gov/professional/assessment/screens/pc-ptsd.asp) and [here](https://link.springer.com/article/10.1007/s11606-016-3703-5).
-The original publication of the English version can be found here: [PC-PTSD-5](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2775926)
-[PC-PTSD](https://content.apa.org/record/2015-55809-001)
+The original publication of the English version can be found here: [PC-PTSD-5](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2775926).
+[PC-PTSD](https://content.apa.org/record/2015-55809-001).
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
@@ -106,9 +106,9 @@ The original publication of the English version can be found here: [PC-PTSD-5](h
 
 
 #### PTSD Checklist (PCL)
-More information about the PCL-5 is available [here](https://www.ptsd.va.gov/professional/assessment/adult-sr/ptsd-checklist.asp)
-The original publication of the English version can be found here: [PCL](https://doi.apa.org/record/2008-03290-009?doi=1)
-[PCL-5](https://content.apa.org/record/2015-55809-001)
+More information about the PCL-5 is available [here](https://www.ptsd.va.gov/professional/assessment/adult-sr/ptsd-checklist.asp).
+The original publication of the English version can be found here: [PCL](https://doi.apa.org/record/2008-03290-009?doi=1),
+[PCL-5](https://content.apa.org/record/2015-55809-001).
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
@@ -122,8 +122,8 @@ The original publication of the English version can be found here: [PCL](https:/
 
 
 #### Trauma Screening Questionnaire (TSQ)
-More information about the TSQ is available [here](https://www.ptsd.va.gov/professional/assessment/screens/tsq.asp)
-The original publication of the English version can be found here: [TSQ](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/brief-screening-instrument-for-posttraumatic-stress-disorder/8FE873195DE100DD13A3F4370E5BB266)
+More information about the TSQ is available [here](https://www.ptsd.va.gov/professional/assessment/screens/tsq.asp).
+The original publication of the English version can be found here: [TSQ](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/brief-screening-instrument-for-posttraumatic-stress-disorder/8FE873195DE100DD13A3F4370E5BB266).
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
