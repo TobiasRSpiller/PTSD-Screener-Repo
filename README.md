@@ -38,14 +38,14 @@ More information about the GPS and a full list with all versions can be found he
 
 
 #### Harvard Trauma Questionnaire (HTQ)
-More information about the HTQ is available [here](https://hprt-cambridge.org/screening/harvard-trauma-questionnaire/) 
+More information about the HTQ is available [here](https://hprt-cambridge.org/screening/harvard-trauma-questionnaire/).
 The original publication of the English version can be found here: [HTQ-5](https://watermark.silverchair.com/cky256.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsQwggLABgkqhkiG9w0BBwagggKxMIICrQIBADCCAqYGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMggJSHmYOrKrxhFNpAgEQgIICdwgPQ7QMbcPlWqMGcL25W99l0QPDghB0H8EVPXQ5OfQuo6TPh2n-fcBPCxGhyjJNeXFTgbLgAUUV3Nq6DSud68JzVixlVRhk9MyVYrEqktirapLYobuhdT7EetAshbjkGQlcwdV8bCgS7n8sovvU74gTyPTfCmCfcGUgMW7sEE6mPWbf5Mc_BMS5bmfg3-khD9P-XMgdsU51nnqeUvAxZ1ZbdMyE318k8_eg4NOLJLW2Uf89rL9t3k4qwWIS001Infg4ylrPZrFaIhVvWB4xKx4yKfTqjJNvDoRzIXEsm8c6Bf7FRD0_4jPz9QBnjL2VFwml64WOkrHG9dXqx2chHmT5anboJjaoRa262vfEScBzDaJtziW00U9AutsYOWX--6M9igTM_ynQr28HUGVR_PMsSC2WkbdKtWR-7n4UKZ5cpeELaoHahOZ5rR6kojkuywQtWwwGXIPwE4Dcl5SrotnkK-1kovXSqQopGuYWm2YsYKU-XUSTe8uooTPFeZ90NAQLQSzcAl1A-v-Q6-R4J0PCaHSGqCOEAXbIrGjBZssGezYL0J_pKrxCIQxLHFfrOlVngJxCmInXdvF56IHcOQtbNQisMDzVC8ERT0DyNqX_A8zVv9ew-GzvZy0lz1DMCurhj5NpmlnM3p5iKXTtkACHmVCEOi28veMhYBtE4tuX011mOQWFF3f1LEkLOq86iR6VUAWOcETDB3i8rMf044XsESHKF41UxqkVEu8Y0QWbqi_WIJ4FcHG798W0dOtqFSSyVy_l3xdO314VFE_OjJfFmzrHqN6qaKuhZXGCsnHTgGF9JLL9pAeFGrz0ezWFZP5l9xFZIdI)
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
 | Hindu  | DSM-IV | [Contact Author](mailto:apatel@hsph.harvard.edu) | [Article](https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-022-01595-3) | 
-| Urdu  | DSM-IV | [Contact Author](mailto:apatel@hsph.harvard.edu)  [Download](https://osf.io/kwazs/) | [Article](https://journals.sagepub.com/doi/abs/10.1177/1363461518764487) | 
-| Tiv  | DSM-IV | [Contact Author](mailto:apatel@hsph.harvard.edu) [Download](https://osf.io/ghcs8/) | [Article](https://www.tandfonline.com/doi/abs/10.1080/10615806.2017.1361936?journalCode=gasc20) | 
+| Urdu  | DSM-IV | [Contact Author](mailto:tambri.housen@solidarityinhealth.com)  | [Article](https://journals.sagepub.com/doi/abs/10.1177/1363461518764487) | 
+| Tiv  | DSM-IV | [Contact Author](mailto:johnbosco.chukwuorji@unn.edu.ng) | [Article](https://www.tandfonline.com/doi/abs/10.1080/10615806.2017.1361936?journalCode=gasc20) | 
 
 <br />
 
