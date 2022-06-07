@@ -96,7 +96,6 @@ The original publication of the English version can be found here: [PDS-5](https
 #### Primary Care PTSD Screen (PC-PTSD)
 More information about the PC-PTSD is available [here](https://www.ptsd.va.gov/professional/assessment/screens/pc-ptsd.asp) and [here](https://link.springer.com/article/10.1007/s11606-016-3703-5).
 The original publication of the English version can be found here: [PC-PTSD-5](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2775926).
-[PC-PTSD](https://content.apa.org/record/2015-55809-001).
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
