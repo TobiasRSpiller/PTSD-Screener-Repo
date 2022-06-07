@@ -43,7 +43,7 @@ The original publication of the English version can be found here: [HTQ-5](https
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
-| Hindu  | DSM-IV | [Contact Author](mailto:apatel@hsph.harvard.edu) | [Article](https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-022-01595-3) | 
+| Hindu  | DSM-5 | [Contact Author](mailto:apatel@hsph.harvard.edu) | [Article](https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-022-01595-3) | 
 | Urdu  | DSM-IV | [Contact Author](mailto:tambri.housen@solidarityinhealth.com)  | [Article](https://journals.sagepub.com/doi/abs/10.1177/1363461518764487) | 
 | Tiv  | DSM-IV | [Contact Author](mailto:johnbosco.chukwuorji@unn.edu.ng) | [Article](https://www.tandfonline.com/doi/abs/10.1080/10615806.2017.1361936?journalCode=gasc20) | 
 
