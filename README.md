@@ -126,8 +126,7 @@ The original publication of the English version can be found here: [TSQ](https:/
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
-| Malay  | DSM-IV | [Contact Author](mailto:zubaidiah@usm.my)
-|[Article](https://www.researchgate.net/publication/270961426_Validation_of_Malay_Trauma_Screening_Questionnaire) | 
+| Malay  | DSM-IV | [Contact Author](mailto:zubaidiah@usm.my)|[Article](https://www.researchgate.net/publication/270961426_Validation_of_Malay_Trauma_Screening_Questionnaire) | 
 | Spanish  | DSM-IV | [Download](https://osf.io/e5wzb/) | [Article](https://www.australiancriticalcare.com/article/S1036-7314(17)30322-3/fulltext) | 
 
 <br />
