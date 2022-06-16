@@ -126,7 +126,8 @@ The original publication of the English version can be found here: [TSQ](https:/
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
-| Malay  | DSM-IV | [Download](https://d1wqtxts1xzle7.cloudfront.net/38374621/IMJ_2014_216536-8_TSQ-with-cover-page-v2.pdf?Expires=1654536053&Signature=a2-SGwSAu3CLtofzAI6fmzN9TovMFd91F5QWbLfywV~EZfj8ECOlLDW7ap4hPpY15QOK2xkcnu95dAnF6X1WjBvMmD1XSY3jFdFf4ObNoiehEZ17ocSe94BrkT4X5ockicoGWQQv1HnDT0VSNuMkR960QMXAmfhQnb4luOExcGgqeT37HhS39lhTfiOzCGepnEd1wvuzGFHUTyLrUlkndY~j4oToHfZiNqmYiCY8jFbF2Xv4zDIkiHP4Mdc92dX9A8vhB7aYTJbq4aTa3wSHmAKRotq3~0dzNyuN9RT~HTUY8RTUxwtvAqnZf0C5Ch9YSEOgITre1MeZ7Mq5VAY3tg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) | [Article](https://d1wqtxts1xzle7.cloudfront.net/38374621/IMJ_2014_216536-8_TSQ-with-cover-page-v2.pdf?Expires=1654536053&Signature=a2-SGwSAu3CLtofzAI6fmzN9TovMFd91F5QWbLfywV~EZfj8ECOlLDW7ap4hPpY15QOK2xkcnu95dAnF6X1WjBvMmD1XSY3jFdFf4ObNoiehEZ17ocSe94BrkT4X5ockicoGWQQv1HnDT0VSNuMkR960QMXAmfhQnb4luOExcGgqeT37HhS39lhTfiOzCGepnEd1wvuzGFHUTyLrUlkndY~j4oToHfZiNqmYiCY8jFbF2Xv4zDIkiHP4Mdc92dX9A8vhB7aYTJbq4aTa3wSHmAKRotq3~0dzNyuN9RT~HTUY8RTUxwtvAqnZf0C5Ch9YSEOgITre1MeZ7Mq5VAY3tg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) | 
+| Malay  | DSM-IV | [[Contact Author](mailto:zubaidiah@usm.my)
+)|[Article](https://www.researchgate.net/publication/270961426_Validation_of_Malay_Trauma_Screening_Questionnaire) | 
 | Spanish  | DSM-IV | [Download](https://osf.io/e5wzb/) | [Article](https://www.australiancriticalcare.com/article/S1036-7314(17)30322-3/fulltext) | 
 
 <br />
