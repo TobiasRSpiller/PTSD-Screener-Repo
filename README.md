@@ -46,6 +46,7 @@ The original publication of the English version can be found here: [HTQ-5](https
 | Hindu  | DSM-5 | [Contact Author](mailto:apatel@hsph.harvard.edu) | [Article](https://bmcwomenshealth.biomedcentral.com/articles/10.1186/s12905-022-01595-3) | 
 | Urdu  | DSM-IV | [Contact Author](mailto:tambri.housen@solidarityinhealth.com)  | [Article](https://journals.sagepub.com/doi/abs/10.1177/1363461518764487) | 
 | Tiv  | DSM-IV | [Contact Author](mailto:johnbosco.chukwuorji@unn.edu.ng) | [Article](https://www.tandfonline.com/doi/abs/10.1080/10615806.2017.1361936?journalCode=gasc20) | 
+| Somali  | DSM-IV | [Contact Author](mailto:jacob.bentley@gmail.com) | [Article](https://www.tandfonline.com/doi/abs/10.1080/13674676.2013.784899) | 
 
 <br />
 
