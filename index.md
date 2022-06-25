@@ -32,8 +32,9 @@ More information about the GPS and a full list with all versions can be found he
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
-| Japanese  | --- | [Download](https://de.global-psychotrauma.net/_files/ugd/893421_4f9d81b41cc7461a94b6128f09f5b28d.pdf) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2020.1810893) | 
+| Japanese | --- | [Download](https://de.global-psychotrauma.net/_files/ugd/893421_4f9d81b41cc7461a94b6128f09f5b28d.pdf) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2020.1810893) | 
 | Multiple Languages  | --- | [Download](https://de.global-psychotrauma.net/gps) | [Article I](https://www.tandfonline.com/doi/full/10.1080/20008198.2020.1752504), [Article II](https://www.tandfonline.com/doi/full/10.1080/20008198.2021.1929754)| 
+
 <br />
 
 
