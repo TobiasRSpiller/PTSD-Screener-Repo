@@ -1,4 +1,6 @@
 
+This repository was created out of a global research collaboration, to increase access to translated PTSD screening questionnaires. 
+
 ### Aim
 To provide a central repository of translated and evaluated PTSD screening questionnaires that are freely usable in clinical and research settings to:
 
