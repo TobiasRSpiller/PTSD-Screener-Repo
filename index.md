@@ -1,7 +1,7 @@
 
 This repository was created out of a global research collaboration, to increase access to translated PTSD screening questionnaires. 
 
-### Table of contents
+### Table of Contents
 * TOC
 {:toc}
 
@@ -16,7 +16,7 @@ To provide a central repository of translated and evaluated PTSD screening quest
 ### Support
 There are three main ways you can support this repository: 1) Cite our review  on PTSD screening questionnaires, 2) contribute additional translations of PTSD screening questionnaires & 3) share this project with your collaborators and friends.
 
-**Cite**
+#### Cite
 When using a questionnaire from this repository, please cite the original article and authors responsible for the translation included in this repository. In addition, you can help us tremendously by citing our [review](ADD) on the availability of translations of PTSD screening questionnaires.
 
 #### Contribute
@@ -139,4 +139,7 @@ The original publication of the English version can be found here: [TSQ](https:/
 
 
 ### Team / Contact
-This repository was initiated by [Joel Hoffman](https://www.rtrp-research.com/joel-hoffman) & [Tobias R. Spiller](https://www.ptsdstresslab.org/lab-members). Feel free to [contact us](mailto:tobias.spiller@yale.edu) if you have any questions.
+This repository was created out of a global research collaboration, to increase access to translated PTSD screening questionnaires. 
+It was initiated by [Joel Hoffman](https://www.rtrp-research.com/joel-hoffman) & [Tobias R. Spiller](https://www.ptsdstresslab.org/lab-members). 
+
+Feel free to [contact us](mailto:tobias.spiller@yale.edu) if you have any questions or would like to contribute.
