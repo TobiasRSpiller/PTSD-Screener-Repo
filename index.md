@@ -92,7 +92,10 @@ The original publication of the English version can be found here: [PDS-5](https
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
+| Arabic  | DSM-5 | [Contact Author](mailto:j.hoffman@unsw.edu.au) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2019.1688129) | 
 | Chinese  | DSM-5 | [Contact Author](mailto:suyijen@ntu.edu.tw) | [Article](https://www.sciencedirect.com/science/article/abs/pii/S088761852030075X) | 
+| Farsi  | DSM-5 | [Contact Author](mailto:j.hoffman@unsw.edu.au) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2019.1688129) | 
+| Tamil  | DSM-5 | [Contact Author](mailto:j.hoffman@unsw.edu.au) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2019.1688129) | 
 
 <br />
 
