@@ -112,6 +112,7 @@ The original publication of the English version can be found here: [PCL](https:/
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
+| Portuguese | DSM-5 | [Contact Author](mailto:christian.kristensen@pucrs.br) | [Article](https://www.scielo.br/j/trends/a/zmy9sNPvdM8pnPZ5Hy5ZWXJ/abstract/?lang=pt) | 
 | Hausa  | DSM-5 | [Download](https://osf.io/6bwau/) | [Article](https://link.springer.com/article/10.1007/s11469-021-00527-w) | 
 | Shona  | DSM-5 | [Download](https://osf.io/r2tna/) | [Article](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-018-1688-9) | 
 | Ukranian  | DSM-5 | [Download](https://af22a459-c039-4ba8-9a14-a6426addc3b6.filesusr.com/ugd/be25b4_322d31e2597746ccac1098a8a8f2210f.docx?dn=1.%20PCL-5%20Ukrainian.docx) | [Article](https://link.springer.com/article/10.1007/s00127-019-01652-7) | 
