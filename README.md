@@ -32,6 +32,7 @@ More information about the GPS and a full list with all versions can be found he
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
+| Farsi/Persion | --- | [Download](https://de.global-psychotrauma.net/gps) | [Article](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-023-04564-8) | 
 | Japanese  | --- | [Download](https://de.global-psychotrauma.net/_files/ugd/893421_4f9d81b41cc7461a94b6128f09f5b28d.pdf) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2020.1810893) | 
 | Multiple Languages  | --- | [Download](https://de.global-psychotrauma.net/gps) | [Article I](https://www.tandfonline.com/doi/full/10.1080/20008198.2020.1752504), [Article II](https://www.tandfonline.com/doi/full/10.1080/20008198.2021.1929754)| 
 <br />
@@ -79,6 +80,7 @@ More information about the ITQ and a full list with all versions can be found he
 | Lithuanian  | ICD-11 | [Download](https://www.traumameasuresglobal.com/_files/ugd/be25b4_b16790b6ee004fd5a7f4f2ac894d631e.pdf) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2017.1414559) | 
 | Norwegian | ICD-11 | [Download](https://www.traumameasuresglobal.com/_files/ugd/be25b4_57a917f1452c44b8befd196a4fd8f5dd.pdf) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2020.1796187) | 
 | Portugese  | ICD-11 | [Download](https://www.traumameasuresglobal.com/_files/ugd/be25b4_5ee5a5239b2a42d29576743b7e3229ff.pdf) | [Article](https://www.scielo.br/j/spmj/a/SvKMPZc4yCh6mqnGNWKbgdN/?lang=en) | 
+| Spanish  | ICD-11 | [Download](https://www.traumameasuresglobal.com/_files/ugd/be25b4_34c7384f18354be58706b3da8acb73bf.pdf) | [Article](https://www.researchgate.net/profile/Julio_Torales/publication/362851952_The_International_Trauma_Questionnaire_An_assessment_of_the_psychometric_properties_of_its_Spanish_version/links/6305364cacd814437fcf4773/The-International-Trauma-Questionnaire-An-assessment-of-the-psychometric-properties-of-its-Spanish-version.pdf) | 
 
 <br />
 
@@ -112,6 +114,8 @@ The original publication of the English version can be found here: [PCL](https:/
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
+| Bangla  | DSM-5 | [[Contact Author](mailto:islam.msaiful@outlook.com)| [Article](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-03920-4) | 
+| Chinese  | DSM-5 | [[Contact Author](mailto:baihmfmmu@vip.163.com)| [Article](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04493-y)| 
 | Portuguese | DSM-5 | [Contact Author](mailto:christian.kristensen@pucrs.br) | [Article](https://www.scielo.br/j/trends/a/zmy9sNPvdM8pnPZ5Hy5ZWXJ/abstract/?lang=pt) | 
 | Hausa  | DSM-5 | [Download](https://osf.io/6bwau/) | [Article](https://link.springer.com/article/10.1007/s11469-021-00527-w) | 
 | Shona  | DSM-5 | [Download](https://osf.io/r2tna/) | [Article](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-018-1688-9) | 
