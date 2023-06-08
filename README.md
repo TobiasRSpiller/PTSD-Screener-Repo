@@ -118,7 +118,8 @@ The original publication of the English version can be found here: [PCL](https:/
 | Chinese  | DSM-5 | [[Contact Author](mailto:baihmfmmu@vip.163.com)| [Article](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-022-04493-y)| 
 | Portuguese | DSM-5 | [Contact Author](mailto:christian.kristensen@pucrs.br) | [Article](https://www.scielo.br/j/trends/a/zmy9sNPvdM8pnPZ5Hy5ZWXJ/abstract/?lang=pt) | 
 | Hausa  | DSM-5 | [Download](https://osf.io/6bwau/) | [Article](https://link.springer.com/article/10.1007/s11469-021-00527-w) | 
-| Shona  | DSM-5 | [Download](https://osf.io/r2tna/) | [Article](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-018-1688-9) | 
+| Shona  | DSM-5 | [Download](https://osf.io/r2tna/) | [Article]([https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-018-1688-9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4838990/) | 
+| Swedish  | DSM-5 | [Download]([https://osf.io/r2tna/](https://osf.io/g4kz8)) | [Article](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-018-1688-9) | 
 | Ukranian  | DSM-5 | [Download](https://af22a459-c039-4ba8-9a14-a6426addc3b6.filesusr.com/ugd/be25b4_322d31e2597746ccac1098a8a8f2210f.docx?dn=1.%20PCL-5%20Ukrainian.docx) | [Article](https://link.springer.com/article/10.1007/s00127-019-01652-7) | 
 | Arabic (Saudi Arabia) | DSM-IV | [Contact Author](mailto:ealhalal@KSU.EDU.SA) | [Article](https://onlinelibrary.wiley.com/doi/abs/10.1002/nur.21837) | 
 | Arabic (Israel) | DSM-IV | [Contact Author](mailto:slonim@bgu.ac.il) | [Article](https://www.sciencedirect.com/science/article/abs/pii/S0165178118311004) | 
