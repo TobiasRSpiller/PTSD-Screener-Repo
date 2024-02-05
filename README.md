@@ -32,7 +32,10 @@ More information about the GPS and a full list with all versions can be found he
 
 | Language | Version | Get Questionnaire | Evaluation Study |
 | :--- | :--- | :--- |  :--- |
+| Chinese | --- | [Download](https://de.global-psychotrauma.net/gps) | [Article](https://www.sciencedirect.com/science/article/pii/S0165032721010119?via%3Dihub) | 
+| English - Children | --- | [Download](https://de.global-psychotrauma.net/gps) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2021.1911080) | 
 | Farsi/Persion | --- | [Download](https://de.global-psychotrauma.net/gps) | [Article](https://bmcpsychiatry.biomedcentral.com/articles/10.1186/s12888-023-04564-8) | 
+| Greek | --- | [Download](https://de.global-psychotrauma.net/gps) | [Article](https://nl.global-psychotrauma.net/_files/ugd/893421_db7fb8aa3f0c46aa85480b76f6f30781.pdf) | 
 | Japanese  | --- | [Download](https://de.global-psychotrauma.net/_files/ugd/893421_4f9d81b41cc7461a94b6128f09f5b28d.pdf) | [Article](https://www.tandfonline.com/doi/full/10.1080/20008198.2020.1810893) | 
 | Multiple Languages  | --- | [Download](https://de.global-psychotrauma.net/gps) | [Article I](https://www.tandfonline.com/doi/full/10.1080/20008198.2020.1752504), [Article II](https://www.tandfonline.com/doi/full/10.1080/20008198.2021.1929754)| 
 <br />
